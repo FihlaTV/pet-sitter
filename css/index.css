@@ -2,3 +2,24 @@
   text-align: center;
   background: none;
 }
+
+#section2 {
+  background-color: #E34848;
+  padding: 4rem;
+
+}
+
+#cat-pic {
+
+}
+
+.btn-wrapper {
+  margin-top: 40px;
+}
+
+#contact-btn {
+  background-color: #fff;
+  color: #000;
+  display: block;
+  margin: auto;
+}
